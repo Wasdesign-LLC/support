@@ -1,6 +1,8 @@
 # Pencil Planner Support
 
-## Questions
+## Questions & Answers
+
+Tap on a question below for details
 
 
 <details><summary>Why is the app not syncing between my iPhone and iPad?</summary>

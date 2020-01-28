@@ -1,1 +1,1 @@
-[Pencil Planner](pencilplanner.html)
+[Pencil Planner](pencilplanner)

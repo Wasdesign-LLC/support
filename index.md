@@ -1,1 +1,1 @@
-[Pencil Planner](pencilplanner)
+[Pencil Planner](pencilplanner.md)

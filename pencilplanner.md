@@ -1,3 +1,5 @@
+# Pencil Planner
+
 Thank you for being willing to search our answers to the mysteries of the universe! I assure you, we do not have all of those answers here, but hopefullly we can help you get answers to the questions you have about Pencil Planner & Calendar Pro on iOS.
 
 ## FAQ

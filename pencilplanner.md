@@ -17,7 +17,7 @@ First of all, we understand this is frustrating, but we have solutions! Pencil P
 
 We totally get it, you live in the real world, and sometimes you need a physical copy! We are working on a share feature that should be in your hands within weeks. In the meantime, you can take a screenshot and crop it to print. This is super convenient with an Apple Pencil, as you can follow these instructions:
 1. Move the pencil tools to the top right of the screen and make sure they are collapsed
-2. Drag in using the pencil from either of the bottom corners of the screen
+2. Drag in using the pencil from either of the bottom corners of the screen to create a screenshot
 3. Crop the image to the Calendar view you would like to print
 4. Tap the Share button in the top right, and select Print! Voila!
 _TIP: you can always use these same steps to create and image if you would like to email, text, or even tweet it. (be careful not to alert the Paparazzi though!)_

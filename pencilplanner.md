@@ -18,6 +18,7 @@ We totally get it, you live in the real world, and sometimes you need a physical
 2. Drag in using the pencil from either of the bottom corners of the screen to create a screenshot
 3. Crop the image to the Calendar view you would like to print
 4. Tap the Share button in the top right, and select Print! Voila!
+
 _TIP: you can always use these same steps to create and image if you would like to email, text, or even tweet it. (be careful not to alert the Paparazzi though!)_
 
 #### How do I get my Apple/Google/Outlook Calendar to load into the app?

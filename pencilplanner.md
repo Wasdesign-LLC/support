@@ -3,7 +3,7 @@
 ## Questions & Answers
 
 
-<details><summary>Why is the app not syncing between my iPhone and iPad?</summary>
+<details><summary>*Why is the app not syncing between my iPhone and iPad?*</summary>
 <p>
 
 Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:

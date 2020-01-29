@@ -30,6 +30,6 @@ Fantastic question, it's like you can see the future! We are working on this fea
 
 You've done it again, read our minds! This feature, as well as seeing the week entry on the day view we hope to make available Q1.
 
-
+---
 
 _If you have issues or suggestions that this page doesn't resolve, please reach out at [plannersupport@next83.com](mailto:plannersupport@next83.com)_

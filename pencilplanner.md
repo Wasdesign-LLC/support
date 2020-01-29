@@ -24,7 +24,7 @@ _TIP: you can always use these same steps to create and image if you would like 
 
 #### How do I get my Apple/Google/Outlook Calendar to load into the app?
 
-Fantastic question, it's like you can see the future! We are working on this feature as we speak, and hope to have it in a version during Q1 2020.
+Fantastic question, it's like you can see the future! We are working on this feature *now*, and hope to have it in a version soon during Q1 2020.
 
 #### Why can't I see what I wrote in the Month view while on the week view?
 

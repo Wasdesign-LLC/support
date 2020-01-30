@@ -12,7 +12,7 @@ For example, if you are on the year view, tapping on "March" instance will bring
 
 If you are on a week view, and you would like to get to the month for that week, tap on the month title in the header in the top left. 
 
-#### Why is the app not syncing between my iPhone and iPad?
+#### How do I get the app to sync between my iPhone and iPad?
 
 First of all, we understand this is frustrating, but we have solutions! Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:
 

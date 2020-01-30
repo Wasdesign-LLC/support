@@ -14,7 +14,7 @@ If you are on a week view, and you would like to get to the month for that week,
 
 #### How do I get the app to sync between my iPhone and iPad?
 
-First of all, we understand this is frustrating, but we have solutions! Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:
+Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:
 
 1. Ensure both devices are on the same iCloud account and sync is on. Settings > Your Account > iCloud - verify "Pencil Planner" is set to "on"
 2. Verify iCloud storage is not full (Settings > Your Account > iCloud) and iCloud drive is turned on

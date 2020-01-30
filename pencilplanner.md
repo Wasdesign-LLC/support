@@ -4,6 +4,14 @@ Thank you for being willing to search our answers to the mysteries of the univer
 
 ## FAQ
 
+#### How can I quickly navigate to a future day?
+
+For quick navigation you can tap with your finger on the date number or title displayed on a month or a week. 
+
+For example, if you are on the year view, tapping on "March" instance will bring you to the March month view. Then, tapping on "23" will take you to the week of the 23rd. Then, if you would like to get to the day view, tapping on 23 again will bring you to the 23rd day view. 
+
+If you are on a week view, and you would like to get to the month for that week, tap on the month title in the header in the top left. 
+
 #### Why is the app not syncing between my iPhone and iPad?
 
 First of all, we understand this is frustrating, but we have solutions! Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:
@@ -37,6 +45,5 @@ You've done it again, read our minds! This feature, as well as seeing the week e
 
 ---
 
-<br/>
 
 _If you have issues or suggestions that this page doesn't resolve, please reach out at [plannersupport@next83.com](mailto:plannersupport@next83.com)_

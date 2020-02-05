@@ -12,6 +12,13 @@ For example, if you are on the year view, tapping on "March" instance will bring
 
 If you are on a week view, and you would like to get to the month for that week, tap on the month title in the header in the top left. 
 
+#### How do I copy and paste to a different date?
+
+1. First use the "Selection" tool (the white pencil with striped tip) to draw around the content you want to copy.
+2. Tap in the middle of the selection to bring up the context menu, and tap "Copy"
+3. Scroll to the page where you want to paste, and tap somewhere on the screen, then tap "Paste"
+4. Drag the pasted content where desired
+
 #### How do I get the app to sync between my iPhone and iPad?
 
 Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:

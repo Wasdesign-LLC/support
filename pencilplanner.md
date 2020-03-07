@@ -24,9 +24,12 @@ If you are on a week view, and you would like to get to the month for that week,
 Pencil Planner syncs automatically to your other devices using your iCloud account. If you are having trouble, here are a few things to try:
 
 1. Ensure both devices are on the same iCloud account and sync is on. Settings > Your Account > iCloud - verify "Pencil Planner" is set to "on"
-2. Verify iCloud storage is not full (Settings > Your Account > iCloud) and iCloud drive is turned on
+2. Verify iCloud storage is not full (Settings > Your Account > iCloud)
+3. Verify "iCloud Drive" is turned on from the same screen
+4. Verify when you visit Settings > Your Account > iCloud > Manage Storage - on both devices, that both devices show "Pencil Planner & Draw Calendar" on the list, and that on both devices they have the same amount (eg. "23.4 MB")
 3. Check that both devices have the latest version of the Pencil Planner app (check the App Store)
-4. If the above suggestions are verified the devices should sync. But finally, it seems there is a bug where sometimes the updated pages don't show up live, so if you write on one device you may have to wait 15-20 seconds on the 2nd device before killing and reopening the app and the updated canvas should be there. We hope to have a fix for this in the next version.
+4. If the above suggestions are verified the devices should sync. But finally, it seems there is a bug where sometimes the updated pages don't show up live, so if you write on one device you may have to wait 15-20 seconds on the 2nd device before killing and reopening the app and the updated canvas should be there. We hope to have a fix for this in the next version. 
+5. Finally, one more thing to try would be to take the device where entries are not showing up as expected, and delete the app, then reinstall. After reinstalling, open it, wait 20 seconds, kill it, and open it again 
 
 #### How do I print a day/week/month/year?
 

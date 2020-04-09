@@ -56,4 +56,4 @@ You've done it again, read our minds! This feature, as well as seeing the week e
 ---
 
 
-_If you have issues or suggestions that this page doesn't resolve, please reach out at [plannersupport@next83.com](mailto:plannersupport@next83.com)_
+_If you have issues or suggestions that this page doesn't resolve, please reach out at [support@pencilplanner.app](mailto:support@pencilplanner.app)_

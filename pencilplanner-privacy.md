@@ -1,4 +1,4 @@
-## Pencil Planner - Privacy Policy
+## Privacy Policy
 
 Wasdesign, LLC built _Pencil Planner & Draw Calendar_ as a Commercial iOS app. This SERVICE is provided by Wasdesign, LLC and is intended for use as is.
 

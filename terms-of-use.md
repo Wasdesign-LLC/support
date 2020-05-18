@@ -171,3 +171,7 @@ ii. Waiver of Jury Trial. There is no judge or jury in arbitration, and court re
 iii. Commencement of Arbitration Proceeding. To begin an arbitration proceeding, you must send a certified letter requesting arbitration and describing your claim to Wasdesign, LLC, 965 E 600 S, Salt Lake City, UT 84102. The arbitration will be conducted by JAMS under its rules. JAMS’ rules are available at www.jamsadr.com. Payment of all filing, administration and arbitrator fees will be governed by the JAMS’ rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Wasdesign will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
 
 iv. No Class Actions. We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial. We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
+
+## Contact Us 
+
+If you have any comments, complaints, concerns, questions, requests, or suggestions about these Terms of Service or Wasdesign Properties, email us at support@pencilplanner.app

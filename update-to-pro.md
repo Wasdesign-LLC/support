@@ -17,7 +17,7 @@ As we tried to design the ideal planner, we quickly found that the features we w
 3. A main event cell displayed on each day which also shows on the week and month
 4. Much better support for iPhone and split screen
 5. A much more reliable storage mechanism 
-6. User accounts which will make it possible to share calendars between users
+6. User accounts which will make it possible to share calendars between users in the future (see our Roadmap)
 
 ### Why is it a subscription instead of a one time charge?
 

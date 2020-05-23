@@ -4,9 +4,9 @@ All users who have purchased Pencil Planner 1 (`Pencil Planner & Draw Calendar`)
 
 ## FAQ
 
-### Where do I find the promo code? 
+### How do I get the 6 month free trial?
 
-Once Pencil Planner Pro has been launched you will find a promo code available in the settings of Pencil Planner 1
+Once Pencil Planner Pro has been launched you will find a promo code available in the settings of Pencil Planner 1. We will add further instructions here after launch day as well.
 
 ### Why a second app (Pencil Planner Pro) instead of adding those features to the first app (Pencil Planner 1)?
 

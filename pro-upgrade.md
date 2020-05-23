@@ -1,4 +1,4 @@
-## Upgrading to Pro
+# Upgrading to Pro
 
 All users who have purchased Pencil Planner 1 (`Pencil Planner & Draw Calendar`) are entitled to a 6 month free trial of Pencil Planner Pro (`Pencil Planner & Calendar Pro`) ($18 USD Value).
 

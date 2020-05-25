@@ -8,7 +8,7 @@ Thank you for being willing to search our answers to the mysteries of the univer
 
 Most feature development on Pencil Planner version 1 has been halted. 
 
-For those who aren't aware, we have released a new version of the app called `Pencil Planner & Calendar Pro` which is available [here](https://apps.apple.com/us/app/pencil-planner-calendar-pro/id1505638148). It is a separate app with a different pricing model. However, we are giving anyone who purchased version 1 a discount on Pencil Planner Pro greater than the value of Pencil Planner version 1. To learn how to receive that discount, or for more info on why, please visit [this page](https://pencilplanner.app/upgrading-from-v1/) 
+For those who aren't aware, we have released a new version of the app [Pencil Planner & Calendar Pro](https://apps.apple.com/us/app/pencil-planner-calendar-pro/id1505638148). It is a separate app with a different pricing model. However, we are giving anyone who purchased version 1 a discount on Pencil Planner Pro greater than the value of Pencil Planner version 1. To learn how to receive that discount, or for more info on why, please visit [this page](https://pencilplanner.app/upgrading-from-v1/) 
 
 #### How can I quickly navigate to a future day?
 

@@ -6,9 +6,7 @@ Thank you for being willing to search our answers to the mysteries of the univer
 
 #### When will ________ feature be available?
 
-Most feature development on Pencil Planner version 1 has been halted. 
-
-For those who aren't aware, we have released a new version of the app [Pencil Planner & Calendar Pro](https://apps.apple.com/us/app/pencil-planner-calendar-pro/id1505638148). It is a separate app with a different pricing model. However, we are giving anyone who purchased version 1 a discount on Pencil Planner Pro greater than the value of Pencil Planner version 1. To learn how to receive that discount, or for more info on why, please visit [this page](https://pencilplanner.app/upgrading-from-v1/) 
+Feature development on Pencil Planner version 1 has been halted. Please see this support article: https://pencilplanner.app/support/pro-vs-original/
 
 #### How can I quickly navigate to a future day?
 
@@ -49,11 +47,11 @@ _TIP: you can always use these same steps to create and image if you would like 
 
 #### How do I get my Apple/Google/Outlook Calendar to load into the app?
 
-Fantastic question, it's like you can see the future! We are working on this feature *now*, and hope to have it in a version soon during Q1 2020.
+Feature development on Pencil Planner version 1 has been halted. Please see this support article: https://pencilplanner.app/support/pro-vs-original/
 
 #### Why can't I see what I wrote in the Month view while on the week view?
 
-You've done it again, read our minds! This feature, as well as seeing the week entry on the day view we hope to make available Q1.
+Feature development on Pencil Planner version 1 has been halted. Please see this support article: https://pencilplanner.app/support/pro-vs-original/
 
 <br/>
 <br/>

@@ -6,7 +6,7 @@ Thank you for being willing to search our answers to the mysteries of the univer
 
 #### When will ________ feature be available?
 
-Feature development on Pencil Planner version 1 has been halted. Please see this support article: https://pencilplanner.app/support/pro-vs-original/
+Feature development on Pencil Planner version 1 has been halted. Please see [this support article](https://pencilplanner.app/support/pro-vs-original/)
 
 #### How can I quickly navigate to a future day?
 
@@ -47,11 +47,11 @@ _TIP: you can always use these same steps to create and image if you would like 
 
 #### How do I get my Apple/Google/Outlook Calendar to load into the app?
 
-Feature development on Pencil Planner version 1 has been halted. Please see this support article: https://pencilplanner.app/support/pro-vs-original/
+Feature development on Pencil Planner version 1 has been halted. Please see [this support article](https://pencilplanner.app/support/pro-vs-original/)
 
 #### Why can't I see what I wrote in the Month view while on the week view?
 
-Feature development on Pencil Planner version 1 has been halted. Please see this support article: https://pencilplanner.app/support/pro-vs-original/
+Feature development on Pencil Planner version 1 has been halted. Please see [this support article](https://pencilplanner.app/support/pro-vs-original/)
 
 <br/>
 <br/>
